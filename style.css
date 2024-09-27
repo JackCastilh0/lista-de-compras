@@ -3,12 +3,12 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #eae4d7;
 
 }  
 
 body{
-    color: #A04747;
+    color: #bd595a;
     display: center;
     font-size: 24px; 
     margin-left: 20px;
@@ -18,7 +18,7 @@ body{
 
 .titulo{
     font-size: 28px;
-    color: #EEDF7A;
+    color: #4c4f53;
     margin-top: 40px;
     border:  5px solid #A04747 ;
     text-align: center;
@@ -27,5 +27,5 @@ body{
 
 .titulo__site{
     font-size: 28px;
-    color: #ffffff;
+    color: #c47f53;
 }
